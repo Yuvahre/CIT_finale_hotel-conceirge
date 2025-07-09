@@ -1,0 +1,21 @@
+2025-04-03 16:49:11,110 - hotel_concierge - INFO - Dataset loaded successfully!
+2025-04-03 16:49:11,372 - hotel_concierge - INFO - Face recognition system initialized using cpu
+2025-04-03 16:49:11,372 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-03 16:49:11,372 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-03 16:49:15,273 - hotel_concierge - INFO - Concierge chatbot initialized successfully
+2025-04-03 16:49:33,457 - hotel_concierge - CRITICAL - Critical error: 'ConciergeChatbot' object has no attribute 'process_message'
+2025-04-03 16:53:34,051 - hotel_concierge - INFO - Dataset loaded successfully!
+2025-04-03 16:53:34,532 - hotel_concierge - INFO - Face recognition system initialized using cpu
+2025-04-03 16:53:34,532 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-03 16:53:34,536 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-03 16:53:39,146 - hotel_concierge - INFO - Concierge chatbot initialized successfully
+2025-04-03 16:55:07,781 - hotel_concierge - CRITICAL - Critical error: ConciergeChatbot() takes no arguments
+2025-04-03 16:56:25,620 - hotel_concierge - CRITICAL - Critical error: ConciergeChatbot() takes no arguments
+2025-04-03 16:57:00,127 - hotel_concierge - ERROR - Error loading dataset: [Errno 2] No such file or directory: '/content/hotel_concierge_dataset (1).csv'
+2025-04-03 16:57:00,130 - hotel_concierge - CRITICAL - Critical error: [Errno 2] No such file or directory: '/content/hotel_concierge_dataset (1).csv'
+2025-04-03 16:59:25,468 - hotel_concierge - INFO - Dataset loaded successfully!
+2025-04-03 16:59:25,914 - hotel_concierge - INFO - Face recognition system initialized using cpu
+2025-04-03 16:59:25,929 - sentence_transformers.SentenceTransformer - INFO - Use pytorch device_name: cpu
+2025-04-03 16:59:25,929 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-03 16:59:30,759 - hotel_concierge - INFO - Concierge chatbot initialized successfully
+2025-04-03 17:01:52,401 - hotel_concierge - INFO - Face registered successfully for uva
